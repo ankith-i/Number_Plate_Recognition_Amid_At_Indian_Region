@@ -70,9 +70,7 @@ Feel free to contribute to the project by submitting pull requests or suggesting
 
 ## Creators
 
-* V Manikanta Sanjay 
-* Sri Hari KR. ➡️ [LinkedIn](https://www.linkedin.com/in/sri-hari-k-r-6b04a7176/) 
-* Suyog P. ➡️ [LinkedIn](https://www.linkedin.com/in/suyog-p-a85aa51aa/)
+* Ankith Indrakumar
 ## License
 
-[MIT](https://github.com/ManikantaSanjay/indian_number_plate_character_recognition/blob/master/LICENSE)
+[MIT](https://github.com/ankith-i/Number_Plate_Recognition_Amid_At_Indian_Region/blob/main/LICENSE)
